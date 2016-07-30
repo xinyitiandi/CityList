@@ -1,0 +1,7 @@
+CHANGED,D:\project5\VitamioDemo\CityList\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\city\list\main\CityList$LetterListViewListener$override.class
+CHANGED,D:\project5\VitamioDemo\CityList\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\city\list\main\CityList$override.class
+CHANGED,D:\project5\VitamioDemo\CityList\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\city\list\main\CityList$CityListOnItemClick$override.class
+CHANGED,D:\project5\VitamioDemo\CityList\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\project5\VitamioDemo\CityList\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\city\list\main\CityList$ListAdapter$override.class
+CHANGED,D:\project5\VitamioDemo\CityList\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\city\list\main\CityList$ListAdapter$ViewHolder$override.class
+CHANGED,D:\project5\VitamioDemo\CityList\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\city\list\main\CityList$OverlayThread$override.class

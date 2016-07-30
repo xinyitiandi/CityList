@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\project5\\VitamioDemo\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_list.xml",
+        "source": "D:\\project5\\VitamioDemo\\CityList\\app\\src\\main\\res\\layout\\city_list.xml"
+    },
+    {
+        "merged": "D:\\project5\\VitamioDemo\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\project5\\VitamioDemo\\CityList\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\project5\\VitamioDemo\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\project5\\VitamioDemo\\CityList\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\project5\\VitamioDemo\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_view.xml",
+        "source": "D:\\project5\\VitamioDemo\\CityList\\app\\src\\main\\res\\layout\\header_view.xml"
+    },
+    {
+        "merged": "D:\\project5\\VitamioDemo\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overlay.xml",
+        "source": "D:\\project5\\VitamioDemo\\CityList\\app\\src\\main\\res\\layout\\overlay.xml"
+    }
+]

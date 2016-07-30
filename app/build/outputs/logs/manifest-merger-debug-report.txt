@@ -1,0 +1,52 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:9:5-22:19
+	android:label
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:10:9-45
+activity#com.city.list.main.MainActivity
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.city.list.main.CityList
+ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from D:\project5\VitamioDemo\CityList\app\src\main\AndroidManifest.xml:21:19-43

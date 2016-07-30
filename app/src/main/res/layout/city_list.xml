@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/city_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/city_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#E8E8E8"
+            android:divider="@null"
+            android:scrollbars="none" />
+
+        <com.city.list.main.MyLetterListView
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="60dp"
+            android:id="@+id/cityLetterListView"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+</LinearLayout>
